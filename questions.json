@@ -1,0 +1,411 @@
+{
+    "numberofquestions": 51,
+    "question1": {
+        "question": "The average person does what thirteen times a day?",
+        "answer1": "Laughs",
+        "answer2": "Sneezes",
+        "answer3": "Blinks",
+        "answer4": "Hiccups",
+        "funny": false
+    },
+    "question2": {
+        "question": "The Average American does what 22 times a day?",
+        "answer1": "Opens Fridge",
+        "answer2": "Checks Phone",
+        "answer3": "Drinks Coffee",
+        "answer4": "Takes a Shower",
+        "funny": false
+    },
+    "question3": {
+        "question": "On Sunday in Florida, it is illegal for a single woman to do what?",
+        "answer1": "Skydive",
+        "answer2": "Drive a Car",
+        "answer3": "Swim in the Ocean",
+        "answer4": "Ride a Bike",
+        "funny": false
+    },
+    "question4": {
+        "question": "In the French vineyards, it's illegal to do what?",
+        "answer1": "Land a Flying Saucer",
+        "answer2": "Drink Water",
+        "answer3": "Sing Loudly",
+        "answer4": "Take Photos",
+        "funny": false
+    },
+    "question5": {
+        "question": "Who said 'I've never had an accident worth talking about'?",
+        "answer1": "Captain E J Smith of the Titanic",
+        "answer2": "Albert Einstein",
+        "answer3": "William Shakespeare",
+        "answer4": "Michael Jackson",
+        "funny": false
+    },
+    "question6": {
+        "question": "Coprastastaphobia is the fear of what?",
+        "answer1": "Constipation",
+        "answer2": "Spiders",
+        "answer3": "Heights",
+        "answer4": "Crowds",
+        "funny": false
+    },
+    "question7": {
+        "question": "In Kansas, it's illegal to eat cherry pie with what?",
+        "answer1": "Ice Cream",
+        "answer2": "Whipped Cream",
+        "answer3": "Ketchup",
+        "answer4": "Mustard",
+        "funny": false
+    },
+    "question8": {
+        "question": "In Minnesota, it is illegal to tease what type of animal?",
+        "answer1": "Skunk",
+        "answer2": "Dog",
+        "answer3": "Cat",
+        "answer4": "Squirrel",
+        "funny": false
+    },
+    "question9": {
+        "question": "Where are 40,000 Americans injured each year?",
+        "answer1": "In the toilet",
+        "answer2": "In the kitchen",
+        "answer3": "At the workplace",
+        "answer4": "In the car",
+        "funny": false
+    },
+    "question10": {
+        "question": "In Massachusetts, what is it illegal to have in the bathroom?",
+        "answer1": "A light switch",
+        "answer2": "A shower curtain",
+        "answer3": "A toilet seat",
+        "answer4": "A mirror",
+        "funny": false
+    },
+    "question11": {
+        "question": "It is illegal in Alaska to look at a moose from where?",
+        "answer1": "The window of any aircraft",
+        "answer2": "A car",
+        "answer3": "A boat",
+        "answer4": "A train",
+        "funny": false
+    },
+    "question12": {
+        "question": "In which Tennessee city is it illegal to lasso fish?",
+        "answer1": "Knoxville",
+        "answer2": "Nashville",
+        "answer3": "Memphis",
+        "answer4": "Chattanooga",
+        "funny": false
+    },
+    "question13": {
+        "question": "Who painted the Mona Lisa?",
+        "answer1": "Leonardo da Vinci",
+        "answer2": "Picasso's cousin",
+        "answer3": "Some artsy guy",
+        "answer4": "Bob Ross",
+        "funny": true
+    },
+    "question14": {
+        "question": "What is the largest planet in our solar system?",
+        "answer1": "Jupiter",
+        "answer2": "Earth",
+        "answer3": "Planet X",
+        "answer4": "Pluto (It's still a planet to me!)",
+        "funny": true
+    },
+    "question15": {
+        "question": "What country could be used as a response to the question 'How are you feeling?' and 'What type of car do you drive?'",
+        "answer1": "Madagascar",
+        "answer2": "Brazil",
+        "answer3": "Canada",
+        "answer4": "Fine, thanks!",
+        "funny": true
+    },
+    "question16": {
+        "question": "What car do you drive?",
+        "answer1": "Batmobile",
+        "answer2": "Invisible car",
+        "answer3": "Rocket-powered skateboard",
+        "answer4": "UFO",
+        "funny": true
+    },
+    "question17": {
+        "question": "What do you call a cow with no legs?",
+        "answer1": "Ground beef",
+        "answer2": "Cowasaurus",
+        "answer3": "Legless moo-moo",
+        "answer4": "Bob",
+        "funny": true
+    },
+    "question18": {
+        "question": "What color is a black box on airplanes?",
+        "answer1": "Orange",
+        "answer2": "Black",
+        "answer3": "Rainbow",
+        "answer4": "Zebra pattern",
+        "funny": true
+    },
+    "question19": {
+        "question": "What is the name for a group of crows?",
+        "answer1": "Murder",
+        "answer2": "Crow-pocalypse",
+        "answer3": "The Caw-caw Club",
+        "answer4": "Feathered mafia",
+        "funny": true
+    },
+    "question20": {
+        "question": "What is the primary language spoken in Australia?",
+        "answer1": "English, mate!",
+        "answer2": "Kangaroo talk",
+        "answer3": "Austrailianese",
+        "answer4": "G'day language",
+        "funny": true
+    },
+    "question21": {
+        "question": "What is the capital of France?",
+        "answer1": "Paris",
+        "answer2": "Eiffel Tower",
+        "answer3": "Croissant",
+        "answer4": "Baguette",
+        "funny": true
+    },
+    "question22": {
+        "question": "What animal can hold its breath the longest?",
+        "answer1": "Fish",
+        "answer2": "Dolphin",
+        "answer3": "Snail",
+        "answer4": "Teenagers when asked to do chores",
+        "funny": true
+    },
+    "question23": {
+        "question": "What is the largest bird in the world?",
+        "answer1": "Ostrich",
+        "answer2": "Big Bird from Sesame Street",
+        "answer3": "Penguin with stilts",
+        "answer4": "Chicken (they just need to believe)",
+        "funny": true
+    },
+    "question24": {
+        "question": "What is the main ingredient in a traditional Greek moussaka?",
+        "answer1": "Eggplant",
+        "answer2": "Moose",
+        "answer3": "Unicorn tears",
+        "answer4": "Greek yogurt",
+        "funny": true
+    },
+    "question25": {
+        "question": "What is the tallest mountain in the world?",
+        "answer1": "Mount Everest",
+        "answer2": "K2 (It's Everest's jealous twin)",
+        "answer3": "Mount Doom",
+        "answer4": "Mount Everest-er (Totally Exists)",
+        "funny": true
+    },
+    "question26": {
+        "question": "What is the capital of Japan?",
+        "answer1": "Tokyo",
+        "answer2": "Kyoto",
+        "answer3": "Osaka",
+        "answer4": "Pokémon City",
+        "funny": true
+    },
+    "question27": {
+        "question": "What animal is known as the 'king of the jungle'?",
+        "answer1": "Lion",
+        "answer2": "Tiger",
+        "answer3": "Gorilla (He wears a crown)",
+        "answer4": "Doge",
+        "funny": true
+    },
+    "question28": {
+        "question": "What is the largest organ in the human body?",
+        "answer1": "Skin",
+        "answer2": "Heart",
+        "answer3": "Brain",
+        "answer4": "Stomach (because it never stops eating)",
+        "funny": true
+    },
+    "question29": {
+        "question": "What is the chemical symbol for the element iron?",
+        "answer1": "Fe",
+        "answer2": "Ir",
+        "answer3": "I",
+        "answer4": "Oh no, chemistry!",
+        "funny": true
+    },
+    "question30": {
+        "question": "What is the capital city of South Korea?",
+        "answer1": "Seoul",
+        "answer2": "Tokyo",
+        "answer3": "Beijing",
+        "answer4": "Gangnam",
+        "funny": false
+    },
+    "question31": {
+        "question": "What is the name of the fictional African country in 'Black Panther'?",
+        "answer1": "Wakanda",
+        "answer2": "Zamunda",
+        "answer3": "Genovia",
+        "answer4": "Elbonia",
+        "funny": false
+    },
+    "question32": {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "answer1": "Mars",
+        "answer2": "Venus",
+        "answer3": "Mercury",
+        "answer4": "Pluto (It's still a planet to me!)",
+        "funny": true
+    },
+    "question33": {
+        "question": "Which famous scientist formulated the theory of general relativity?",
+        "answer1": "Albert Einstein",
+        "answer2": "Isaac Newton",
+        "answer3": "Stephen Hawking",
+        "answer4": "Bob Ross",
+        "funny": false
+    },
+    "question34": {
+        "question": "What is the smallest bone in the human body?",
+        "answer1": "Stapes (in the ear)",
+        "answer2": "Femur",
+        "answer3": "Tibia",
+        "answer4": "Funny bone",
+        "funny": true
+    },
+    "question35": {
+        "question": "Which river is the longest in the world?",
+        "answer1": "Nile",
+        "answer2": "Amazon",
+        "answer3": "Mississippi",
+        "answer4": "Ganges",
+        "funny": false
+    },
+    "question36": {
+        "question": "Which famous composer wrote the Symphony No. 9 in D minor, also known as 'Choral'?",
+        "answer1": "Ludwig van Beethoven",
+        "answer2": "Wolfgang Amadeus Mozart",
+        "answer3": "Johann Sebastian Bach",
+        "answer4": "Bob Marley",
+        "funny": false
+    },
+    "question37": {
+        "question": "Which mammal can fly?",
+        "answer1": "Bat",
+        "answer2": "Penguin",
+        "answer3": "Kangaroo",
+        "answer4": "Unicorn",
+        "funny": true
+    },
+    "question38": {
+        "question": "What is the largest living species of shark?",
+        "answer1": "Whale shark",
+        "answer2": "Great white shark",
+        "answer3": "Hammerhead shark",
+        "answer4": "Card shark",
+        "funny": false
+    },
+    "question39": {
+        "question": "What is the national flower of Japan?",
+        "answer1": "Cherry blossom",
+        "answer2": "Rose",
+        "answer3": "Tulip",
+        "answer4": "Pizza (It should be!)",
+        "funny": true
+    },
+    "question40": {
+        "question": "In Greek mythology, who is the god of wine?",
+        "answer1": "Dionysus",
+        "answer2": "Zeus",
+        "answer3": "Apollo",
+        "answer4": "Merlot",
+        "funny": false
+    },
+    "question41": {
+        "question": "Which planet in our solar system has the most moons?",
+        "answer1": "Jupiter",
+        "answer2": "Saturn",
+        "answer3": "Neptune",
+        "answer4": "Mercury",
+        "funny": true
+    },
+    "question42": {
+        "question": "What is the tallest animal on Earth?",
+        "answer1": "Giraffe",
+        "answer2": "Elephant",
+        "answer3": "Tyrannosaurus Rex",
+        "answer4": "Bigfoot (In some legends!)",
+        "funny": true
+    },
+    "question43": {
+        "question": "What is the largest internal organ in the human body?",
+        "answer1": "Liver",
+        "answer2": "Lung",
+        "answer3": "Kidney",
+        "answer4": "Brain (It controls everything!)",
+        "funny": true
+    },
+    "question44": {
+        "question": "What is the smallest planet in our solar system?",
+        "answer1": "Mercury",
+        "answer2": "Venus",
+        "answer3": "Mars",
+        "answer4": "Pluto (It's still a planet to me!)",
+        "funny": true
+    },
+    "question45": {
+        "question": "Which mountain range is the longest in the world?",
+        "answer1": "Andes",
+        "answer2": "Himalayas",
+        "answer3": "Rocky Mountains",
+        "answer4": "Mountain Range",
+        "funny": true
+    },
+    "question46": {
+        "question": "In which country was the game of chess invented?",
+        "answer1": "India",
+        "answer2": "China",
+        "answer3": "Egypt",
+        "answer4": "Chesstopia",
+        "funny": true
+    },
+    "question47": {
+        "question": "What is the largest species of penguin?",
+        "answer1": "Emperor penguin",
+        "answer2": "King penguin",
+        "answer3": "Adelie penguin",
+        "answer4": "Penguin with stilts",
+        "funny": true
+    },
+    "question48": {
+        "question": "In which country would you find the Leaning Tower of Pisa?",
+        "answer1": "Italy",
+        "answer2": "France",
+        "answer3": "Spain",
+        "answer4": "Sillyland (Where everything leans)",
+        "funny": true
+    },
+    "question49": {
+        "question": "What is the chemical symbol for the element gold?",
+        "answer1": "Au",
+        "answer2": "Ag",
+        "answer3": "Go",
+        "answer4": "Goldilocks (She knows the perfect temperature!)",
+        "funny": true
+    },
+    "question50": {
+        "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+        "answer1": "Venus",
+        "answer2": "Mercury",
+        "answer3": "Mars",
+        "answer4": "My Flashlight (Because it shines so bright!)",
+        "funny": true
+    },
+    "question51": {
+        "question": "Which famous physicist developed the theory of relativity?",
+        "answer1": "Albert Einstein",
+        "answer2": "Isaac Newton",
+        "answer3": "Stephen Hawking",
+        "answer4": "Bob Ross",
+        "funny": false
+    }
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="icon" href="cube.ico">
+    <title>Dumb Trivia!</title>
+    <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js" rel="stylesheet"></script>
+</head>
+<body>
+    <div class="centered">
+        <form action="/index.html">
+            <button class='bx bx-cube-alt bx-tada-hover' style="font-size: 80px; margin-bottom: 20px; margin-left: 320px; border: 0px;"></button>
+        </form>
+        <div class="questionrect" style="margin-bottom: 20px;">
+            <div class="questionrectinner">
+                <div id="question" class="blackfontformat" style="--size: 40px">
+                    Question
+                </div>
+            </div>
+        </div>
+        <div class="grid-container">
+            <div class="buttonoutline" id="AnswerTLO">
+                <button id="AnswerTL" class="answerbtn blackfontformat" style="--size: 30px">Answer</button>
+            </div>
+            <div class="buttonoutline" id="AnswerTRO">
+                <button id="AnswerTR" class="answerbtn blackfontformat" style="--size: 30px">Answer</button>
+            </div>
+        </div>
+        <div class="grid-container" style="margin-top: 20px;">
+            <div class="buttonoutline" id="AnswerBLO">
+                <button id="AnswerBL" class="answerbtn blackfontformat" style="--size: 30px">Answer</button>
+            </div>
+            <div class="buttonoutline" id="AnswerBRO">
+                <button id="AnswerBR" class="answerbtn blackfontformat" style="--size: 30px">Answer</button>
+            </div>
+        </div>
+        <div class="questionrect" style="margin-top: 20px;">
+            <div class="questionrectinner">
+                <div id="score" class="blackfontformat" style="--size: 30px">
+                    Score:
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="module" src="trivia.js"></script>
+</body>
+</html>

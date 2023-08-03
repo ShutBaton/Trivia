@@ -1,0 +1,182 @@
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.titlerect {
+  border-radius: 35px;
+  background: linear-gradient(to bottom right, purple, #4400ff);
+  padding: 20px; 
+  width: 300px;
+}
+
+.titletextrect {
+  border-radius: 25px;
+  background: #1f0068;
+  padding: 40px;
+  width: 220px;
+}
+
+.startbtn {
+  border: 0px solid white;
+  color: white;
+  border-radius: 25px;
+  background-color: #1f0068;
+  padding: 20px;
+  cursor: pointer;
+  width: 300px;
+}
+
+.startbtn:hover {
+  border: 0px solid white;
+  color: white;
+  border-radius: 25px;
+  background-color: #280085;
+  padding: 20px;
+  cursor: pointer;
+  width: 300px;
+}
+
+.otherrect {
+  border-radius: 35px;
+  background: linear-gradient(to bottom right, purple, #4400ff);
+  padding: 20px; 
+  width: 300px;
+}
+
+.otherbtn {
+  border: 0px solid white;
+  color: white;
+  border-radius: 25px;
+  background-color: #1f0068;
+  padding: 20px;
+  cursor: pointer;
+  width: 300px;
+}
+
+.otherbtn:hover {
+  border: 0px solid white;
+  color: white;
+  border-radius: 25px;
+  background-color: #280085;
+  padding: 20px;
+  cursor: pointer;
+  width: 300px;
+}
+
+.btn {
+  border: 0px solid white;
+  color: white;
+  border-radius: 25px;
+  background-color: #1f0068;
+  padding: 20px;
+  cursor: pointer;
+  width: 300px;
+}
+
+.btn:hover {
+  border: 0px solid white;
+  color: white;
+  border-radius: 25px;
+  background-color: #280085;
+  padding: 20px;
+  cursor: pointer;
+  width: 300px;
+}
+
+.fontformat {
+  text-align: center;
+  color: white;
+  font-family: monospace;
+  font-size: var(--size);
+}
+
+.questionrect {
+  border-radius: 45px;
+  background: linear-gradient(to bottom right, purple, #4400ff);
+  padding: 20px; 
+  width: 680px;
+}
+
+.questionrectinner {
+  border-radius: 25px;
+  background: white;
+  padding: 20px; 
+  width: 640px;
+}
+
+.blackfontformat {
+  text-align: center;
+  color: black;
+  font-family: monospace;
+  font-size: var(--size);
+}
+
+.buttonoutline {
+  border-radius: 35px;
+  background: linear-gradient(to bottom right, purple, #4400ff);
+  padding: 15px; 
+  width: 320px;
+}
+
+.answerbtn {
+  border-width: 0px;
+  border-radius: 25px;
+  background: white;
+  padding: 20px; 
+  width: 320px;
+  height: 100%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.scorerect {
+  border-radius: 45px;
+  background: linear-gradient(to bottom right, purple, #4400ff);
+  padding: 20px; 
+  width: 680px;
+}
+
+.scorerectinner {
+  border-radius: 25px;
+  background: white;
+  padding: 20px; 
+  width: 640px;
+}
+
+.qrect {
+  border-radius: 35px;
+  background: linear-gradient(to bottom right, purple, #4400ff);
+  padding: 20px; 
+  width: 80px;
+}
+
+.qbtn {
+  border: 0px solid white;
+  color: white;
+  border-radius: 25px;
+  background-color: #1f0068;
+  padding: 20px;
+  cursor: pointer;
+  width: 80px;
+}
+
+.qbtn:hover {
+  border: 0px solid white;
+  color: white;
+  border-radius: 25px;
+  background-color: #280085;
+  padding: 20px;
+  cursor: pointer;
+  width: 80px;
+}
+
+.no-italics {
+  font-style: normal;
+}
